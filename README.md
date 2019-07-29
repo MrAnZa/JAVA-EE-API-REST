@@ -1,1 +1,1 @@
-# Spring-API-REST
+# JAVA EE Hibernate-API-REST
